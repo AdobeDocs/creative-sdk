@@ -1,6 +1,6 @@
 # Creative SDK
 
-## Getting Started
+## Table of Contents
 
 - [Announcement](./announcement)
   - [End of Support for the Creative SDK Content Management, Workflow, and Authentication Components](./announcement/creative-sdk-components-end-of-life.md)
