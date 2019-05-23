@@ -30,6 +30,6 @@ Adobe is committed to supporting the developer community and building an ecosyst
 
 We know that reaching Creative Cloud customers is vital to the success of your integration, so we are preparing to launch a new app marketplace, the Adobe Exchange. The Adobe Exchange is an evolution of our existing Add-ons marketplace and will provide a unified destination for partners to distribute their integrations for all of the Adobe clouds -- Experience Cloud, Document Cloud, and Creative Cloud.
 
-You can find a FAQ regarding the November 2017 deprecation of Creative SDK components [here](https://creativesdk.zendesk.com/hc/en-us/articles/115004788243).  
+You can find a FAQ regarding the November 2017 deprecation of Creative SDK components [here](../faq/creative-sdk-image-editor-ui-end-of-life.md).  
 
 Thank you for using the Creative SDK.
