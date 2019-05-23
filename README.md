@@ -1,18 +1,18 @@
-# Documentation Starter Repo
+# Creative SDK
 
-This repository contains scaffolding for a docs repo which can be deployed on the Adobe Developer Site.
+## Getting Started
 
-All sections below in this `README.md`
-should be considered a template for a typical project `README.md`.
+- [Announcement](./announcement)
+  - [End of Support for the Creative SDK Content Management, Workflow, and Authentication Components](./announcement/creative-sdk-components-end-of-life.md)
+  - [End of Support for the Creative SDK Image Editor UI, Color UI, Market Browser, and Labs Components](./announcement/creative-sdk-image-editor-ui-end-of-life.md)
+- [FAQ](./faq)
+  - [Creative SDK Content Management, Workflow, Authentication Component - End of Support FAQs](./faq/creative-sdk-components-end-of-life.md)
+  - [Creative SDK Image Editor UI, Color UI, Market Browser, Labs Component Deprecation FAQ](./faq/creative-sdk-image-editor-ui-end-of-life.md)
 
-## PROJECT NAME
-
-A short description of the project that these docs are for.
-
-### Contributing
+## Contributing
 
 Contributions are welcomed! Read the [Contributing Guide](.github/CONTRIBUTING.md) for more information.
 
-### Licensing
+## Licensing
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
