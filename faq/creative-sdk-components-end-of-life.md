@@ -24,4 +24,4 @@ At this point, we are not offering an alternative to the Creative SDK’s Asset 
 
 There is an alternative to the Typekit Browser UI through the [Adobe Fonts platform](https://www.adobe.io/apis/creativecloud/adobe-fonts.html).
 
-Authentication capabilities will continue to be available through the publicly documented [authentication](https://www.adobe.io/authentication.html) endpoints and the Creative SDK scopes.
+Authentication capabilities will continue to be available through the publicly documented [authentication](https://developer.adobe.com/developer-console/docs/guides/authentication/) endpoints and the Creative SDK scopes.
