@@ -1,6 +1,6 @@
 # Creative SDK
 
-> https://creativesdk.adobe.com
+~> https://creativesdk.adobe.com~
 
 ## Table of Contents
 
